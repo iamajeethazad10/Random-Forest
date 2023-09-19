@@ -8,7 +8,7 @@ As the name suggests, "Random Forest is a classifier that contains a number of d
 
 The greater number of trees in the forest leads to higher accuracy and prevents the problem of overfitting.
 
-## **This assignment will study following Questions :**
+## **This notebook will study following Questions :**
 **Problem Statement No 1 :**
 
 A cloth manufacturing company is interested to know about the segment or attributes causes high sale. Approach - A Random Forest can be built with target variable Sales (we will first convert it in categorical variable) & all other variable will be independent in the analysis.
